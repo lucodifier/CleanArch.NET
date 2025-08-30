@@ -1,0 +1,17 @@
+C:\codes\CleanArchitectureGuideline\CleanArch.CrossCutting\bin\Debug\net8.0\CleanArch.CrossCutting.deps.json
+C:\codes\CleanArchitectureGuideline\CleanArch.CrossCutting\bin\Debug\net8.0\CleanArch.CrossCutting.dll
+C:\codes\CleanArchitectureGuideline\CleanArch.CrossCutting\bin\Debug\net8.0\CleanArch.CrossCutting.pdb
+C:\codes\CleanArchitectureGuideline\CleanArch.CrossCutting\bin\Debug\net8.0\CleanArch.Application.dll
+C:\codes\CleanArchitectureGuideline\CleanArch.CrossCutting\bin\Debug\net8.0\CleanArch.Domain.dll
+C:\codes\CleanArchitectureGuideline\CleanArch.CrossCutting\bin\Debug\net8.0\CleanArch.Application.pdb
+C:\codes\CleanArchitectureGuideline\CleanArch.CrossCutting\bin\Debug\net8.0\CleanArch.Domain.pdb
+C:\codes\CleanArchitectureGuideline\CleanArch.CrossCutting\obj\Debug\net8.0\CleanArch.CrossCutting.csproj.AssemblyReference.cache
+C:\codes\CleanArchitectureGuideline\CleanArch.CrossCutting\obj\Debug\net8.0\CleanArch.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\codes\CleanArchitectureGuideline\CleanArch.CrossCutting\obj\Debug\net8.0\CleanArch.CrossCutting.AssemblyInfoInputs.cache
+C:\codes\CleanArchitectureGuideline\CleanArch.CrossCutting\obj\Debug\net8.0\CleanArch.CrossCutting.AssemblyInfo.cs
+C:\codes\CleanArchitectureGuideline\CleanArch.CrossCutting\obj\Debug\net8.0\CleanArch.CrossCutting.csproj.CoreCompileInputs.cache
+C:\codes\CleanArchitectureGuideline\CleanArch.CrossCutting\obj\Debug\net8.0\CleanArc.8B39533F.Up2Date
+C:\codes\CleanArchitectureGuideline\CleanArch.CrossCutting\obj\Debug\net8.0\CleanArch.CrossCutting.dll
+C:\codes\CleanArchitectureGuideline\CleanArch.CrossCutting\obj\Debug\net8.0\refint\CleanArch.CrossCutting.dll
+C:\codes\CleanArchitectureGuideline\CleanArch.CrossCutting\obj\Debug\net8.0\CleanArch.CrossCutting.pdb
+C:\codes\CleanArchitectureGuideline\CleanArch.CrossCutting\obj\Debug\net8.0\ref\CleanArch.CrossCutting.dll

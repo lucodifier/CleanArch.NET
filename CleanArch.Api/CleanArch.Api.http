@@ -1,0 +1,31 @@
+### Criar um novo produto
+POST {{baseUrl}}/api/products
+Content-Type: application/json
+
+{
+  "name": "Produto Teste",
+  "price": 29.99
+}
+
+### Buscar produto por ID
+GET {{baseUrl}}/api/products/{{productId}}
+
+### Listar todos os produtos
+GET {{baseUrl}}/api/products
+
+### Atualizar produto
+PUT {{baseUrl}}/api/products/{{productId}}
+Content-Type: application/json
+
+{
+  "id": "{{productId}}",
+  "name": "Produto Atualizado",
+  "price": 39.99
+}
+
+### Deletar produto
+DELETE {{baseUrl}}/api/products/{{productId}}
+
+### Variáveis de ambiente
+@baseUrl = https://localhost:7001
+@productId = {{createProduct.response.body}}
