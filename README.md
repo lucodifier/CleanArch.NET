@@ -150,28 +150,6 @@ DELETE /api/products/{id}
 - Facilita implementação de CQRS
 - Melhora testabilidade
 
-## 🧪 Testes
-
-### Testes Unitários (Futuro)
-- Testes das entidades de domínio
-- Testes dos handlers de comando
-- Testes dos repositórios
-
-### Testes de Integração (Futuro)
-- Testes dos controllers
-- Testes dos endpoints da API
-
-## 🚧 Próximos Passos
-
-- [ ] Implementar Entity Framework Core
-- [ ] Adicionar validações com FluentValidation
-- [ ] Implementar logging estruturado
-- [ ] Adicionar testes unitários
-- [ ] Implementar autenticação e autorização
-- [ ] Adicionar cache distribuído
-- [ ] Implementar padrão Specification
-- [ ] Adicionar documentação com XML comments
-
 ## 📖 Referências
 
 - [Clean Architecture by Uncle Bob](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
@@ -192,7 +170,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👨‍💻 Autor
 
-Seu Nome - [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
+Luciano - [lucianorieth@outlook.com](mailto:lucianorieth@outlook.com)
 
 ---
 
